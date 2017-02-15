@@ -9,7 +9,7 @@ API](https://www.microsoft.com/cognitive-services/en-us/bing-web-search-apihttps
 and [Bing Summarizer
 API](https://www.microsoft.com/cognitive-services/en-us/labs).
 
-<https://azuredeploy.net?repository=https://github.com/microsoft/BotBuilder-Samples/tree/master/CSharp/intelligence-Zummer>
+[![Deploy to Azure][Deploy Button]][Deploy CSharp/Zummer] 
 
 Bot Recipe/Prerequisites:
 -------------------------
@@ -343,3 +343,6 @@ Summarizing the Wikipedia article
          } 
     }
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Deploy Button]: https://azuredeploy.net/deploybutton.png
+[Deploy CSharp/Zummer]: https://azuredeploy.net?repository=https://github.com/microsoft/BotBuilder-Samples/tree/master/CSharp/intelligence-Zummer
